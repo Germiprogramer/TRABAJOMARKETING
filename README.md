@@ -4,7 +4,8 @@ La dirección al repositorio es la siguiente: https://github.com/Germiprogramer/
 ___________________________________________________________________________________________________________________________________________________________________
                                                                         
                                                                         
-                                                                        
+![logpp](https://user-images.githubusercontent.com/91722847/162054299-c5b54d95-cdf6-4709-b740-05f27bf81722.png)
+
 “VinhOporto” es una empresa de exportación de vino cuya labor es exportar sus productos a compradores a lo largo de toda Europa. Tratándose de vino, no sorprende conocer que la empresa es española, ubicándose su sede inicial en Vinhanueva de la Cañada, un pequeño pueblo universitario al sur de la capital madrileña. El secreto de los múltiples éxitos de esta humilde y familiar empresa, fundada por 5 célebres estudiantes (proyectos de matemáticos) de la Universidad Alfonso X el Sabio, reside no sólo en el talento y dedicación de los líderes y el esfuerzo de todos los trabajadores, sino en su único vino, valorado por expertos catadores de todo el mundo como el mejor vino de la Península Ibérica, cuya seña de identidad es este mismo producto. Pese a ser empresa española, la materia prima para la elaboración del producto es portuguesa, donde se cultiva la mejor uva de vinho verde. Las botellas se exportan desde Oporto (Portugal), ciudad caracterizada por su acceso al mar y su desarrollo portuario.
 
 El dataset que hemos seleccionado es “Wine Quality Dataset”, debido a que a la hora de crear una empresa es más fácil vender o comparar un producto. Además el vino es un producto muy demandado, lo que nos facilitará la hora de su venta.
@@ -13,17 +14,18 @@ Se ha acentuado nuestro interés por el vino, y en especial por el que es export
 
 El vino es un producto de consumición propia y el propio consumidor decidirá el uso que quiere darle. Dentro de la Pirámide de Maslow este producto corresponde a las necesidades fisiológicas de los humanos.
 
-### PRECIOS 
-Dentro de toda la gama de nuestros vinos, tenemos rangos de precio muy amplio, distinguiéndose dos gamas principales, la gama low cost, con precios de entre 10 y 70 euros  y la gama premium de entre 300 y 799 euros.
+### PRECIOS Y DIFUSIÓN DEL PRODUCTO
+Dentro de toda la gama de nuestros vinos, tenemos rangos de precio muy amplio, distinguiéndose dos gamas principales, la gama low cost, con precios de entre 10 y 70 euros  y la gama premium de entre 300 y 799 euros. Intentaremos conseguir que cualquier tipo de cliente (mayor de edad) se pueda sentir atraído por nuestros vinos, ya sea tanto por la calidad, como por el precio.
+La empresa realizará varias tiendas propias y también venderá el producto a grandes franquicias y hosteleros.
+A la hora de distribuir nuestro producto, es que la diferencia entre nosotros y los demás reside en la calidad del producto, dado que, tal y como se ha mencionado anteriormente, está valorado como el mejor vino de toda la península.
 
-
-
-### LOGOTIPO Y ESLOGAN
+### DISEÑO DE LA MARCA (LOGOTIPO Y ESLOGAN)
 
 “Viva el VINHO.”
 
 ![V   O](https://user-images.githubusercontent.com/91722847/162032894-82b398a5-3730-4449-b0f5-54c15f66a305.png)
 
+El logotipo esta formado por una imagen de la bonita ciudad de Oporto y una foto de una copa de vino, y con esta fusión que hemos realizado lo que queremos transmitir al público es la belleza de ambas cosas combinadas, lo que es nuestro vino, una combinación perfecta entre Oporto y nuestro vino.
 
 ### ANÁLISIS DE MACROENTORNO Y MICROENTORNO 
 
@@ -39,14 +41,6 @@ MICROENTORNO:
 
 ![Campaña comunicación](https://user-images.githubusercontent.com/91722847/162050176-0b29ee71-7c1a-417c-8890-d03dd5626c88.png)
 
-4. IDENTIFICACIÓN DEL PÚBLICO OBJETIVO
-
-El contenido de este apartado dependerá del tipo de canal de distribución elegido por la empresa.
-
-a) La empresa vende directamente al consumidor final bien sin intermediario o a través de tiendas propias.
-En este caso se deberá trazar el perfil del customer-persona realizando una descripción exhaustiva de todas sus características en función de los diferentes criterios de segmentación existentes.
-
-La empresa realizará varias tiendas propias y también venderá el producto a grandes franquicias y hosteleros.
 
 b) La empresa vende sus productos a través de intermediarios, es decir, tiendas ajenas.
  
@@ -57,80 +51,17 @@ tendrán los intermediarios del canal (clientes de la empresa) a través de los 
 pondrán los productos en el mercado.
 
 
-5. POSICIONAMIENTO
-En este apartado se deberá definir el posicionamiento que se va a utilizar para el
-lanzamiento del producto, es decir, la imagen/idea con la que la empresa quiere que el
-consumidor final identifique el producto. Para ello será necesario:
 
-- Identificar los puntos de paridad y diferencia del producto en relación con sus
-competidores más cercanos.
+### DISEÑO DEL PRODUCTO
 
-La diferencia entre nosotros y los demás reside en la calidad del producto, dado que, tal y como se ha mencionado anteriormente, está valorado como el mejor vino de toda la península.
+Diseño y estilo de la botella de Vino:
+[VinhOporto La combinación perfecta entre el vino y Oporto.pdf](https://github.com/Germiprogramer/TRABAJOMARKETING/files/8429881/VinhOporto.La.combinacion.perfecta.entre.el.vino.y.Oporto.pdf)
 
+Servicios de apoyo al producto:
+Para atraer a los consumidores, diseñaremos unas elegantes copas de vino que con la compra de una cantidad de botellas de vino, le regalaremos una caja de seis copas.
 
-
-6. DISEÑO DEL PRODUCTO
-
-Con carácter previo a la descripción de sus características se deberá exponer cuál ha sido el proceso que ha llevado al equipo a diseñar el producto. Una vez realizada esta
-explicación se abordarán los siguientes puntos:
-
-a) Atributos del producto:
-
-
-a. Calidad: Determinar el nivel de calidad que tendrá el producto. El nivel de
-calidad estará en función de las características del segmento o segmentos de
-mercado a los que se va a dirigir el producto y del posicionamiento definido.
-
-b. Características del producto:
-
-
-c. Estilo: El estilo está relacionado con la apariencia física del producto.
-
-
-b) Diseño de la marca:
-
-Indicar el nombre comercial de la marca comercial elegida para el producto y diseñar
-el logotipo que la representa. 
-“VinhoOporto”
-
-
-
-
-En este apartado, además, se deberá explicar el significado de la marca y el logotipo diseñado así como lo que se quiere transmitir al mercado con ellos.
-
-c) Envase y etiquetado:
-Diseñar el envase que contendrá el producto final explicando las características más
-destacables del mismo.
-
- Asimismo, se deberá proceder a diseñar la etiqueta que deberá contener toda aquella información legal exigible así como la información que se considere relevante para el comprador. 
-
-En ambos casos, en el trabajo se deberá incluir una representación gráfica.
-
-
-d) Servicios de apoyo al producto:
-Se deberá describir todos aquellos servicios adicionales que se le vayan a ofrecer al
-consumidor final.
-
-
-7. ESTRATEGIA DE PRECIO
-
-Elegir qué estrategias de precios se utilizarán para su fijación, establecer el precio del
-producto y justificar la correspondencia entre el precio fijado y la/las estrategias
-elegidas.
-
-–Intentaremos conseguir que cualquier tipo de cliente (mayor de edad) se pueda sentir atraído por nuestros vinos, ya sea tanto por la calidad, como por el precio.
-
-Ya que ofreceremos una variada gama de vinos a un precio acorde con su calidad y que supere a la competencia.
-
-
-
-
-8. DISTRIBUCIÓN
-
-Determinar si se opta por una distribución directa del producto o si, por el contrario, se utilizarán intermediarios para hacer llegar el producto al consumidor final.
-●	 En el caso de que se elija distribuir directamente deberá indicarse si se realizará mediante puntos de venta físicos o a través de e-commerce.
-●	Para la distribución con intermediarios deberá especificarse qué tipo de intermediarios se emplearán (mayoristas y/o minoristas) y dentro de cada categoría la clase a la que corresponden.
-
+Calidad del producto: 
+Como ya hemos mencionado varias veces, presentamos una gran variedad de precios, que estan relacionados calidad-precio, pero hasta el vino con el precio más bajo que ofrecemos, presenta una gran calidad que el consumidor no podrá resistirse.
 
 
 
