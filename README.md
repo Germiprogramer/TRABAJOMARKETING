@@ -25,7 +25,7 @@ Dentro de toda la gama de nuestros vinos, tenemos rangos de precio muy amplio, d
 ![V   O](https://user-images.githubusercontent.com/91722847/162032894-82b398a5-3730-4449-b0f5-54c15f66a305.png)
 
 
-### ANÁLISIS DE MACROENTORNO Y MICROENTORNO
+### ANÁLISIS DE MACROENTORNO Y MICROENTORNO 
 
 MACROENTORNO:
 
@@ -35,6 +35,9 @@ MICROENTORNO:
 
 ![Análisis microentorno](https://user-images.githubusercontent.com/91722847/162043450-82820fdf-46e4-438f-9599-cf01f3a6b10d.png)
 
+### ESQUEMA DE CAMPAÑA DE COMUNICACIÓN
+
+![Campaña comunicación](https://user-images.githubusercontent.com/91722847/162050176-0b29ee71-7c1a-417c-8890-d03dd5626c88.png)
 
 4. IDENTIFICACIÓN DEL PÚBLICO OBJETIVO
 
@@ -129,8 +132,6 @@ Determinar si se opta por una distribución directa del producto o si, por el co
 ●	Para la distribución con intermediarios deberá especificarse qué tipo de intermediarios se emplearán (mayoristas y/o minoristas) y dentro de cada categoría la clase a la que corresponden.
 
 
-9. COMUNICACIÓN
-Diseñar la campaña de comunicación más adecuada a las características del producto y público objetivo elegido.
 
 
 ## Sitemap
