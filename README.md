@@ -1,5 +1,8 @@
 ### VinhOporto
 
+La dirección al repositorio es la siguiente: https://github.com/Germiprogramer/TRABAJOMARKETING.git
+___________________________________________________________________________________________________________________________________________________________________
+
 “VinhOporto” es una empresa de exportación de vino cuya labor es exportar sus productos a compradores a lo largo de toda Europa. Tratándose de vino, no sorprende conocer que la empresa es española, ubicándose su sede inicial en Vinhanueva de la Cañada, un pequeño pueblo universitario al sur de la capital madrileña. El secreto de los múltiples éxitos de esta humilde y familiar empresa, fundada por 5 célebres estudiantes (proyectos de matemáticos) de la Universidad Alfonso X el Sabio, reside no sólo en el talento y dedicación de los líderes y el esfuerzo de todos los trabajadores, sino en su único vino, valorado por expertos catadores de todo el mundo como el mejor vino de la Península Ibérica, cuya seña de identidad es este mismo producto. Pese a ser empresa española, la materia prima para la elaboración del producto es portuguesa, donde se cultiva la mejor uva de vinho verde. Las botellas se exportan desde Oporto (Portugal), ciudad caracterizada por su acceso al mar y su desarrollo portuario.
 
 El dataset que hemos seleccionado es “Wine Quality Dataset”, debido a que a la hora de crear una empresa es más fácil vender o comparar un producto. Además el vino es un producto muy demandado, lo que nos facilitará la hora de su venta.
