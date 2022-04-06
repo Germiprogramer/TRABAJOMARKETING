@@ -139,7 +139,7 @@ Diseñar la campaña de comunicación más adecuada a las características del p
 
 ## Wireframe
 
-
+<img width="766" alt="Captura de Pantalla 2022-04-06 a las 20 46 52" src="https://user-images.githubusercontent.com/91721764/162046688-e8a3a508-2908-463c-a351-7fd46c80523d.png">
 
 ## Design pattern
 
