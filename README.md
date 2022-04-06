@@ -131,3 +131,8 @@ Determinar si se opta por una distribución directa del producto o si, por el co
 
 9. COMUNICACIÓN
 Diseñar la campaña de comunicación más adecuada a las características del producto y público objetivo elegido.
+
+
+## Sitemap
+
+<img width="567" alt="Sitemap" src="https://user-images.githubusercontent.com/91721762/162044723-3f237dae-8e32-4257-b004-c1615da309af.png">
