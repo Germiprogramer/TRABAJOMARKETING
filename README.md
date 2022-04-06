@@ -1,34 +1,17 @@
-# TRABAJOMARKETING
-
-1. INTRODUCCIÓN La introducción consta de tres partes diferenciadas: 
-
-a) Presentación de la empresa: Breve descripción de la empresa en la que deberá figurar; el nombre de la sociedad (que no tiene por qué coincidir con la marca comercial elegida para el producto), ubicación, a qué se dedica, misión, visión y valores sobre los que se sustenta su gestión.
+### VinhOporto
 
 “VinhOporto” es una empresa de exportación de vino cuya labor es exportar sus productos a compradores a lo largo de toda Europa. Tratándose de vino, no sorprende conocer que la empresa es española, ubicándose su sede inicial en Vinhanueva de la Cañada, un pequeño pueblo universitario al sur de la capital madrileña. El secreto de los múltiples éxitos de esta humilde y familiar empresa, fundada por 5 célebres estudiantes (proyectos de matemáticos) de la Universidad Alfonso X el Sabio, reside no sólo en el talento y dedicación de los líderes y el esfuerzo de todos los trabajadores, sino en su único vino, valorado por expertos catadores de todo el mundo como el mejor vino de la Península Ibérica, cuya seña de identidad es este mismo producto. Pese a ser empresa española, la materia prima para la elaboración del producto es portuguesa, donde se cultiva la mejor uva de vinho verde. Las botellas se exportan desde Oporto (Portugal), ciudad caracterizada por su acceso al mar y su desarrollo portuario.
 
-b) Motivos que han llevado al grupo a desarrollar el producto: 
-
 El dataset que hemos seleccionado es “Wine Quality Dataset”, debido a que a la hora de crear una empresa es más fácil vender o comparar un producto. Además el vino es un producto muy demandado, lo que nos facilitará la hora de su venta.
 
-c) Aprendizaje adquirido con la realización del trabajo:
-Se ha acentuado nuestro interés por el vino, y en especial por el que es exportado desde Portugal. También nos ha ayudado a saber valorar mejor la calidad del mismo y conocer sus diferentes características.
+Se ha acentuado nuestro interés por el vino, y en especial por el que es exportado desde Portugal. También nos ha ayudado a saber valorar mejor la calidad del mismo y conocer sus diferentes características. También por el desarrollo de su página web y todo el análisis que conlleva el dataset.
 
+El vino es un producto de consumición propia y el propio consumidor decidirá el uso que quiere darle. Dentro de la Pirámide de Maslow este producto corresponde a las necesidades fisiológicas de los humanos.
 
-2. NECESIDADES Y PROPUESTA DE VALOR 
-a) Identificar la necesidad última que cubre el producto. Para desarrollar esta parte del trabajo se facilitan las siguientes preguntas de reflexión: 
-- ¿Para qué sirve el producto? 
-El vino es un producto de consumición propia.
-
-- ¿Qué utilidad le proporciona el producto al consumidor? 
-El consumidor decidirá el uso que quiere dar a nuestro producto
-
-- ¿A qué tipo de necesidad, de acuerdo con la pirámide de Maslow, responde este producto? 
-El vino corresponde a la Fisiológicas, dentro de la pirámide de Maslow.
-
-b) Definir la propuesta de valor que, con el producto, se ofrece al mercado. Esta propuesta debe plantearse como una frase corta que describa claramente cómo el producto aporta valor al consumidor. Adicionalmente, se deberá identificar: 
-
-- Los costes que asume el cliente para poder adquirir y consumir el producto. 
+### PRECIOS 
 Dentro de toda la gama de nuestros vinos, tenemos rangos de precio muy amplio, distinguiéndose dos gamas principales, la gama low cost, con precios de entre 10 y 70 euros  y la gama premium de entre 300 y 799 euros.
+
+
 
 - Los beneficios que el producto aporta al consumidor
 Mayor disfrute cuando el consumidor lo desee.
@@ -95,6 +78,9 @@ b) Diseño de la marca:
 Indicar el nombre comercial de la marca comercial elegida para el producto y diseñar
 el logotipo que la representa. 
 “VinhoOporto”
+
+![V   O](https://user-images.githubusercontent.com/91722847/162032894-82b398a5-3730-4449-b0f5-54c15f66a305.png)
+
 
 En este apartado, además, se deberá explicar el significado de la marca y el logotipo diseñado así como lo que se quiere transmitir al mercado con ellos.
 
