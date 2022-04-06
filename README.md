@@ -42,16 +42,6 @@ MICROENTORNO:
 ![Campaña comunicación](https://user-images.githubusercontent.com/91722847/162050176-0b29ee71-7c1a-417c-8890-d03dd5626c88.png)
 
 
-b) La empresa vende sus productos a través de intermediarios, es decir, tiendas ajenas.
- 
-En este caso, se deberá, por un lado, trazar el perfil del consumidor final (customer persona) realizando una descripción exhaustiva de todas sus características en función de los diferentes criterios de segmentación existentes.
-
-Asimismo, deberá describirse, de manera pormenorizada, las características que
-tendrán los intermediarios del canal (clientes de la empresa) a través de los que se
-pondrán los productos en el mercado.
-
-
-
 ### DISEÑO DEL PRODUCTO
 
 Diseño y estilo de la botella de Vino:
