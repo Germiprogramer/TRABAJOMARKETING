@@ -136,3 +136,13 @@ Diseñar la campaña de comunicación más adecuada a las características del p
 ## Sitemap
 
 <img width="567" alt="Sitemap" src="https://user-images.githubusercontent.com/91721762/162044723-3f237dae-8e32-4257-b004-c1615da309af.png">
+
+## Wireframe
+
+
+
+## Design pattern
+
+<img width="622" alt="Captura de Pantalla 2022-04-06 a las 20 44 46" src="https://user-images.githubusercontent.com/91721764/162046534-3f08fac6-a5b5-4b71-80f3-b9dc3f12625e.png">
+
+
