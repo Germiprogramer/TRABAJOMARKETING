@@ -24,6 +24,8 @@ Mayor disfrute cuando el consumidor lo desee.
 
 Realizar el análisis del macroentorno y microentorno (interno y externo) de la empresa. Una vez efectuado este análisis se deberá llevar a cabo el diagnóstico DAFO. En este sentido, además de identificar las fortalezas y debilidades, amenazas y oportunidades, se deberá indicar el orden de importancia de cada uno de los aspectos identificados así como la probabilidad de que éstos tengan un efecto a corto, medio o largo plazo.
 
+![Analisis macroentorno empresa](https://user-images.githubusercontent.com/91722847/162039488-7af1aaef-3eee-4c04-937e-ff8e8eaed520.png)
+
 
 4. IDENTIFICACIÓN DEL PÚBLICO OBJETIVO
 
