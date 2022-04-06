@@ -68,3 +68,6 @@ Como ya hemos mencionado varias veces, presentamos una gran variedad de precios,
 <img width="622" alt="Captura de Pantalla 2022-04-06 a las 20 44 46" src="https://user-images.githubusercontent.com/91721764/162046534-3f08fac6-a5b5-4b71-80f3-b9dc3f12625e.png">
 
 
+## Link del figma
+
+[Figma](https://www.figma.com/proto/uONhSgB5Zk19cThz2vswBs/Landify---Landing-Page-UI-Kit-v1.1-(Community)-(Community)-(Community)?node-id=2062%3A2494&scaling=min-zoom&page-id=2062%3A2493)
