@@ -1,6 +1,8 @@
 ### VinhOporto
 
 La dirección al repositorio es la siguiente: https://github.com/Germiprogramer/TRABAJOMARKETING.git
+
+LINK DATASET: : https://www.kaggle.com/datasets/danielpanizzo/wine-quality?select=wineQualityWhites.csv
 ___________________________________________________________________________________________________________________________________________________________________
                                                                         
                                                                         
